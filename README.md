@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Overview of Analysis
-The purpose of this analysis was to use SQLite and SQLAlchemy along with our knowledge of Python (Pandas dataframes) in order to obtain temperature data from June and December in Oahu. We do this because we want to know if a surf and ice cream shop business would be able to run year round. 
+The purpose of this analysis was to use SQLite and SQLAlchemy along with Pandas dataframe in order to obtain temperature data from June and December in Oahu. We do this because we want to know if a surf and ice cream shop business would be able to run year-round. 
 
 ## Results 
 
